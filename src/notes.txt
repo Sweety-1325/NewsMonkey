@@ -1,0 +1,9 @@
+useState hook-update state and set the initial value for state
+
+useEffect-we can use this hook in place of component did mount,we we want something to happen(let say alert) when on
+some condition(let say state is changing) we can use useEffect.
+
+useContext-if we want to send props to let say a component which is 3 levels down we need to pass it level by level whichis complex
+,so we can make that prop available globally using useContext
+
+useref-holder where any element can be holded in its dom current
